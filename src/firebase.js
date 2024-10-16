@@ -19,7 +19,7 @@ import {
 
 const firebaseConfig = {
   apiKey: "AIzaSyDIXJ5YT7hoNbBFqK3TBcV41-TzIO-7n7w",
-  authDomain: "fir-auth-6edd8.firebaseapp.com",
+  authDomain: "fir-test.firebaseapp.com",
   projectId: "fir-auth-6edd8",
   storageBucket: "fir-auth-6edd8.appspot.com",
   messagingSenderId: "904760319835",
